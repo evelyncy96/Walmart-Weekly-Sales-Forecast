@@ -5,6 +5,6 @@ We are data scientists who are passionate about retail industry. We also notice 
 The entire visualization is done using Tableau interactive dashboard. You can access them via the two links below.
 * https://public.tableau.com/app/profile/chu.yun.evelyn.hsiao/viz/WalmartSalesForcast-EDA/Walmart
 
-### Preview of the dashboard without interaction effect
+#### Preview of the dashboard without interaction effect:
 ![alt text](https://github.com/evelyncy96/Walmart-Weekly-Sales-Forecast/blob/main/EDA%20Dashboard%20Preview.png)
 
